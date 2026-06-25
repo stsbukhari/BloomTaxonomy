@@ -293,19 +293,18 @@ df['label_id'] = df['label'].map(label2id)
 ---
 
 ## Citation
+Submitted Paper - 
+#If you use HRI-BloomBench-24 in your research, please cite:
 
-If you use HRI-BloomBench-24 in your research, please cite:
-
-```bibtex
-@article{bukhari2024hribloom,
-  title     = {HRI-BloomBench-24: A Large-Scale NLP Benchmark for Bloom's Revised Taxonomy
-               Classification in Human-Robot Interaction},
-  author    = {Bukhari, Syed Tanweer Shah and Malik, Manzar Iqbal and
-               Yaseen, Faiqa and Ware, Andrew},
-  journal   = {IEEE Access},
-  year      = {2024},
-  publisher = {IEEE}
-}
+#```bibtex
+#@article{bukhari2026hribloom,
+#  title     = {HRI-BloomBench-24: A Balanced Natural Language Benchmark for Bloom’s Revised Taxonomy Classification in Human–Robot Interaction Scenarios},
+#  author    = {Bukhari, Syed Tanweer Shah and Malik, Manzar Iqbal and
+#               Yaseen, Faiqa and Ware, Andrew},
+#  journal   = {IEEE Access},
+#  year      = {2026},
+#  publisher = {IEEE}
+#}
 ```
 
 ---
