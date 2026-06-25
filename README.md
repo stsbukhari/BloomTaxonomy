@@ -2,7 +2,6 @@
 
 [![Dataset](https://img.shields.io/badge/Dataset-HRI--BloomBench--24-blue)](https://github.com/stsbukhari/BloomTaxonomy)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-green)](LICENSE)
-[![IEEE Access](https://img.shields.io/badge/Paper-IEEE%20Access-orange)](https://ieeeaccess.ieee.org/)
 [![Sentences](https://img.shields.io/badge/Sentences-204%2C000-purple)]()
 [![Classes](https://img.shields.io/badge/Classes-24-red)]()
 
